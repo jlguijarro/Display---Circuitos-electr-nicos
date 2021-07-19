@@ -1,0 +1,2 @@
+vhdl isim_temp "aut_duracion.vhd"
+vhdl isim_temp "test_aut_duracion.vhd"

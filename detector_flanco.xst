@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/alumno/Desktop/nostraCeltini/Celt2018/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/alumno/Desktop/nostraCeltini/Celt2018/xst"
+elaborate
+-ifn detector_flanco.prj
+-ifmt mixed

@@ -1,0 +1,57 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/alumno/Desktop/nostraCeltini/Celt2018/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.08 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/alumno/Desktop/nostraCeltini/Celt2018/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.08 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "C:/Users/alumno/Desktop/nostraCeltini/Celt2018/decodmorsea7s.vhd" in Library work.
+Architecture a_decodmorsea7s of Entity decodmorsea7s is up to date.
+Compiling vhdl file "C:/Users/alumno/Desktop/nostraCeltini/Celt2018/MUX4x8.vhd" in Library work.
+Architecture a_mux4x8 of Entity mux4x8 is up to date.
+Compiling vhdl file "C:/Users/alumno/Desktop/nostraCeltini/Celt2018/refresco.vhd" in Library work.
+Architecture a_refresco of Entity refresco is up to date.
+Compiling vhdl file "C:/Users/alumno/Desktop/nostraCeltini/Celt2018/rdesp_disp.vhd" in Library work.
+Architecture a_rdesp_disp of Entity rdesp_disp is up to date.
+Compiling vhdl file "C:/Users/alumno/Desktop/nostraCeltini/Celt2018/div_reloj.vhd" in Library work.
+Architecture a_div_reloj of Entity div_reloj is up to date.
+Compiling vhdl file "C:/Users/alumno/Desktop/nostraCeltini/Celt2018/detector_flanco.vhd" in Library work.
+Architecture a_detector_flanco of Entity detector_flanco is up to date.
+Compiling vhdl file "C:/Users/alumno/Desktop/nostraCeltini/Celt2018/aut_duracion.vhd" in Library work.
+Architecture a_aut_duracion of Entity aut_duracion is up to date.
+Compiling vhdl file "C:/Users/alumno/Desktop/nostraCeltini/Celt2018/comp_16.vhd" in Library work.
+Architecture behavioral of Entity comp_16 is up to date.
+Compiling vhdl file "C:/Users/alumno/Desktop/nostraCeltini/Celt2018/comp_16_1.vhd" in Library work.
+Architecture behavioral of Entity comp_16_1 is up to date.
+Compiling vhdl file "C:/Users/alumno/Desktop/nostraCeltini/Celt2018/aut_control.vhd" in Library work.
+Architecture a_aut_control of Entity aut_control is up to date.
+Compiling vhdl file "C:/Users/alumno/Desktop/nostraCeltini/Celt2018/visualizacion.vhd" in Library work.
+Architecture a_visualizacion of Entity visualizacion is up to date.
+Compiling vhdl file "C:/Users/alumno/Desktop/nostraCeltini/Celt2018/receptor.vhd" in Library work.
+Entity <receptor> compiled.
+Entity <receptor> (Architecture <a_receptor>) compiled.
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.16 secs
+ 
+--> 
+
+Total memory usage is 214980 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

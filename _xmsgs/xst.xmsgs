@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/main</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/ultimate(visu works)/Celt2018/main.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/alumno/Desktop/nostraCeltini/Celt2018/main.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/main/a_main</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/ultimate(visu works)/Celt2018/main.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/alumno/Desktop/nostraCeltini/Celt2018/main.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/GEN_SENAL</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/ultimate(visu works)/Celt2018/GEN_SENAL.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/alumno/Desktop/nostraCeltini/Celt2018/GEN_SENAL.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/GEN_SENAL/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/ultimate(visu works)/Celt2018/GEN_SENAL.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/alumno/Desktop/nostraCeltini/Celt2018/GEN_SENAL.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/receptor</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/ultimate(visu works)/Celt2018/receptor.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/alumno/Desktop/nostraCeltini/Celt2018/receptor.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/receptor/a_receptor</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/ultimate(visu works)/Celt2018/receptor.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/alumno/Desktop/nostraCeltini/Celt2018/receptor.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/aut_control</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/ultimate(visu works)/Celt2018/aut_control.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/alumno/Desktop/nostraCeltini/Celt2018/aut_control.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/aut_control/a_aut_control</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/ultimate(visu works)/Celt2018/aut_control.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/alumno/Desktop/nostraCeltini/Celt2018/aut_control.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/aut_duracion</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/ultimate(visu works)/Celt2018/aut_duracion.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/alumno/Desktop/nostraCeltini/Celt2018/aut_duracion.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/aut_duracion/a_aut_duracion</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/ultimate(visu works)/Celt2018/aut_duracion.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/alumno/Desktop/nostraCeltini/Celt2018/aut_duracion.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/comp_16</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/ultimate(visu works)/Celt2018/comp_16.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/alumno/Desktop/nostraCeltini/Celt2018/comp_16.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/comp_16/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/ultimate(visu works)/Celt2018/comp_16.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/alumno/Desktop/nostraCeltini/Celt2018/comp_16.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/comp_16_1</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/ultimate(visu works)/Celt2018/comp_16_1.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/alumno/Desktop/nostraCeltini/Celt2018/comp_16_1.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/comp_16_1/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/ultimate(visu works)/Celt2018/comp_16_1.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/alumno/Desktop/nostraCeltini/Celt2018/comp_16_1.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/detector_flanco</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/ultimate(visu works)/Celt2018/detector_flanco.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/alumno/Desktop/nostraCeltini/Celt2018/detector_flanco.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/detector_flanco/a_detector_flanco</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/ultimate(visu works)/Celt2018/detector_flanco.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/alumno/Desktop/nostraCeltini/Celt2018/detector_flanco.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/div_reloj</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/ultimate(visu works)/Celt2018/div_reloj.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/alumno/Desktop/nostraCeltini/Celt2018/div_reloj.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/div_reloj/a_div_reloj</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/ultimate(visu works)/Celt2018/div_reloj.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/alumno/Desktop/nostraCeltini/Celt2018/div_reloj.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/visualizacion</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/ultimate(visu works)/Celt2018/visualizacion.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/alumno/Desktop/nostraCeltini/Celt2018/visualizacion.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/visualizacion/a_visualizacion</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/ultimate(visu works)/Celt2018/visualizacion.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/alumno/Desktop/nostraCeltini/Celt2018/visualizacion.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/decodmorsea7s</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/ultimate(visu works)/Celt2018/decodmorsea7s.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/alumno/Desktop/nostraCeltini/Celt2018/decodmorsea7s.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/decodmorsea7s/a_decodmorsea7s</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/ultimate(visu works)/Celt2018/decodmorsea7s.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/alumno/Desktop/nostraCeltini/Celt2018/decodmorsea7s.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/MUX4x8</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/ultimate(visu works)/Celt2018/MUX4x8.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/alumno/Desktop/nostraCeltini/Celt2018/MUX4x8.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/MUX4x8/a_MUX4x8</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/ultimate(visu works)/Celt2018/MUX4x8.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/alumno/Desktop/nostraCeltini/Celt2018/MUX4x8.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/rdesp_disp</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/ultimate(visu works)/Celt2018/rdesp_disp.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/alumno/Desktop/nostraCeltini/Celt2018/rdesp_disp.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/rdesp_disp/a_rdesp_disp</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/ultimate(visu works)/Celt2018/rdesp_disp.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/alumno/Desktop/nostraCeltini/Celt2018/rdesp_disp.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/refresco</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/ultimate(visu works)/Celt2018/refresco.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/alumno/Desktop/nostraCeltini/Celt2018/refresco.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/refresco/a_refresco</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/ultimate(visu works)/Celt2018/refresco.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/alumno/Desktop/nostraCeltini/Celt2018/refresco.vhd</arg>&quot;.
+</msg>
+
+<msg type="info" file="Xst" num="738" delta="old" >HDL ADVISOR - <arg fmt="%d" index="1">268</arg> flip-flops were inferred for signal &lt;<arg fmt="%s" index="2">CADENA1</arg>&gt;. You may be trying to describe a RAM in a way that is incompatible with block and distributed RAM resources available on Xilinx devices, or with a specific template that is not supported. Please review the Xilinx resources documentation and the XST user manual for coding guidelines. Taking advantage of RAM resources will lead to improved device usage and reduced synthesis time.
+</msg>
+
+<msg type="info" file="Xst" num="1767" delta="old" >HDL ADVISOR - Resource sharing has identified that some arithmetic operations in this design can share the same physical resources for reduced device utilization. For improved clock frequency you may try to disable resource sharing.
+</msg>
+
+</messages>
+

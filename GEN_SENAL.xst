@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/alumno/Desktop/ultimate/nostraCeltini/Celt2018/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/alumno/Desktop/ultimate/nostraCeltini/Celt2018/xst"
+elaborate
+-ifn GEN_SENAL.prj
+-ifmt mixed

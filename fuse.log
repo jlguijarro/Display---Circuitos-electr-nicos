@@ -1,0 +1,31 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o C:/Users/alumno/Desktop/nostraCeltini/Celt2018/TB_VISU_isim_beh.exe -prj C:/Users/alumno/Desktop/nostraCeltini/Celt2018/TB_VISU_beh.prj work.TB_VISU 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/alumno/Desktop/nostraCeltini/Celt2018/refresco.vhd" into library work
+Parsing VHDL file "C:/Users/alumno/Desktop/nostraCeltini/Celt2018/rdesp_disp.vhd" into library work
+Parsing VHDL file "C:/Users/alumno/Desktop/nostraCeltini/Celt2018/MUX4x8.vhd" into library work
+Parsing VHDL file "C:/Users/alumno/Desktop/nostraCeltini/Celt2018/decodmorsea7s.vhd" into library work
+Parsing VHDL file "C:/Users/alumno/Desktop/nostraCeltini/Celt2018/visualizacion.vhd" into library work
+Parsing VHDL file "C:/Users/alumno/Desktop/nostraCeltini/Celt2018/prueba_visualizacion.vhd" into library work
+Parsing VHDL file "C:/Users/alumno/Desktop/nostraCeltini/Celt2018/TB_VISU.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture a_decodmorsea7s of entity decodmorsea7s [decodmorsea7s_default]
+Compiling architecture a_mux4x8 of entity MUX4x8 [mux4x8_default]
+Compiling architecture a_refresco of entity refresco [refresco_default]
+Compiling architecture a_rdesp_disp of entity rdesp_disp [rdesp_disp_default]
+Compiling architecture a_visualizacion of entity visualizacion [visualizacion_default]
+Compiling architecture a_prueba_visualizacion of entity prueba_visualizacion [prueba_visualizacion_default]
+Compiling architecture behavior of entity tb_visu
+Time Resolution for simulation is 1ps.
+Waiting for 3 sub-compilation(s) to finish...
+Compiled 17 VHDL Units
+Built simulation executable C:/Users/alumno/Desktop/nostraCeltini/Celt2018/TB_VISU_isim_beh.exe
+Fuse Memory Usage: 33680 KB
+Fuse CPU Usage: 420 ms

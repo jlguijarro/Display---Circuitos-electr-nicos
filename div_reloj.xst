@@ -1,0 +1,5 @@
+set -tmpdir "E:/Celt2018/xst/projnav.tmp"
+set -xsthdpdir "E:/Celt2018/xst"
+elaborate
+-ifn div_reloj.prj
+-ifmt mixed

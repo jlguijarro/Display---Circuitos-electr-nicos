@@ -1,0 +1,19 @@
+xst -intstyle ise -ifn "E:/Celt2018/prueba_visualizacion.xst" -ofn "E:/Celt2018/prueba_visualizacion.syr" 
+xst -intstyle ise -ifn "E:/Celt2018/prueba_visualizacion.xst" -ofn "E:/Celt2018/prueba_visualizacion.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-5 prueba_visualizacion.ngc prueba_visualizacion.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o prueba_visualizacion_map.ncd prueba_visualizacion.ngd prueba_visualizacion.pcf 
+par -w -intstyle ise -ol high -t 1 prueba_visualizacion_map.ncd prueba_visualizacion.ncd prueba_visualizacion.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml prueba_visualizacion.twx prueba_visualizacion.ncd -o prueba_visualizacion.twr prueba_visualizacion.pcf 
+bitgen -intstyle ise -f prueba_visualizacion.ut prueba_visualizacion.ncd 
+xst -intstyle ise -ifn "E:/Celt2018/prueba_visualizacion.xst" -ofn "E:/Celt2018/prueba_visualizacion.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-5 prueba_visualizacion.ngc prueba_visualizacion.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o prueba_visualizacion_map.ncd prueba_visualizacion.ngd prueba_visualizacion.pcf 
+par -w -intstyle ise -ol high -t 1 prueba_visualizacion_map.ncd prueba_visualizacion.ncd prueba_visualizacion.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml prueba_visualizacion.twx prueba_visualizacion.ncd -o prueba_visualizacion.twr prueba_visualizacion.pcf 
+bitgen -intstyle ise -f prueba_visualizacion.ut prueba_visualizacion.ncd 
+xst -intstyle ise -ifn "C:/Users/alumno/Desktop/nostraCeltini/Celt2018/prueba_visualizacion.xst" -ofn "C:/Users/alumno/Desktop/nostraCeltini/Celt2018/prueba_visualizacion.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc asoc_prueba_vis.ucf -p xc3s100e-cp132-5 prueba_visualizacion.ngc prueba_visualizacion.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o prueba_visualizacion_map.ncd prueba_visualizacion.ngd prueba_visualizacion.pcf 
+par -w -intstyle ise -ol high -t 1 prueba_visualizacion_map.ncd prueba_visualizacion.ncd prueba_visualizacion.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml prueba_visualizacion.twx prueba_visualizacion.ncd -o prueba_visualizacion.twr prueba_visualizacion.pcf -ucf asoc_prueba_vis.ucf 
+bitgen -intstyle ise -f prueba_visualizacion.ut prueba_visualizacion.ncd 

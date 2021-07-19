@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/alumno/Desktop/CELT/Celt2018/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/alumno/Desktop/CELT/Celt2018/xst"
+elaborate
+-ifn rdesp_disp.prj
+-ifmt mixed
